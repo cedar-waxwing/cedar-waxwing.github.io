@@ -8,6 +8,6 @@ What are you struggling with?
 
 I often feel like I don't understand why we're doing something the way we are until I've practiced several times, then it suddenly makes sense. It's hard to wade through that initial confusion but rewarding once it clicks.
  
-What are you excited or eager to learn more about?
+## What are you excited or eager to learn more about?
 
 Everything! Particularly practicing JavaScript. 
