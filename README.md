@@ -1,2 +1,1 @@
-# BootcampBlog
-There's nothing in here, for now.
+# rachelehlers.github.io
