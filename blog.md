@@ -1,7 +1,7 @@
 
 # Rachel's BootCamp Blog
 
-
+---
 Blog Entry 1 - 1/29/21
 
 ## Was your first week what you expected? Why? Why not?
