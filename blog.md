@@ -23,7 +23,7 @@ Everything! Particularly practicing JavaScript.
  
 ## What are your thoughts on pseudo coding?
  
-Last week pseudo coding was pretty difficult becasue I was still getting my feet under me. I think it'll be easier and more helpful this coming week, now that I have a sense of how our basic tools (terminal, VS Code, etc) work and can use them compitently. 
+Last week pseudo coding was pretty difficult becasue I was still getting my feet under me. I think it'll be easier and more helpful this coming week, now that I have a sense of how our basic tools (terminal, VS Code, etc) work and can use them competently. 
 
 ## What are you struggling with?
 Just trying to make sure I get enough actual project practice in during the week. I'm going to keep focusing on getting through the readings and to the projects as quickly as possible (while still retaining the info), because the projects are where the info is solidified. 
