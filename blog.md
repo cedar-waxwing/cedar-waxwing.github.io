@@ -35,6 +35,8 @@ I am *really* excited to get started on JavaScript this coming week.
 
 <details>
 
+<summary>Blog Entry 3 - 2/15/21</summary>
+
 ## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
 
 You can make a nice looking site with html and CSS, but if you want it to be functional then JavaScript is the key. A modern, interactive UI needs JavaScript (or another language) to make the interface work rather than just be aesthetically pleasing. 
