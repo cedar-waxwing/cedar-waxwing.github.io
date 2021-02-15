@@ -32,3 +32,19 @@ Just trying to make sure I get enough actual project practice in during the week
 I am *really* excited to get started on JavaScript this coming week. 
 
 </details>
+
+<details>
+
+## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+
+You can make a nice looking site with html and CSS, but if you want it to be functional then JavaScript is the key. A modern, interactive UI needs JavaScript (or another language) to make the interface work rather than just be aesthetically pleasing. 
+ 
+## What are some objects that your blog incorporates?
+
+My blog incorporates posts, drop-down headings, and a main header. 
+ 
+## What are your thoughts on pseudo coding now?
+ 
+When you're pseudo-coding, it's more important to think abstractly rather than to think too much about how it will look when it's written out in the coding language. You need to think of all contingencies and set up your expectations and givens properly, so that you can have a solid base going forward.
+
+ </details>
