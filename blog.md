@@ -50,3 +50,27 @@ My blog incorporates posts, drop-down headings, and a main header.
 When you're pseudo-coding, it's more important to think abstractly rather than to think too much about how it will look when it's written out in the coding language. You need to think of all contingencies and set up your expectations and givens properly, so that you can have a solid base going forward.
 
  </details>
+
+<details>
+
+<summary>Blog Entry 4 - 2/21/21 </summary>
+
+## What was one thing you liked and disliked about each of the new topics covered in Pre Work?
+
+I enjoyed reading more documentation on JavaScript concepts like functions, loops, etc. I had known they existed and had been using them on CodeWars, so it was helpful to get additional background. I disliked the structure of that information, however -- it would have been helpful to have a thorough walkthrough of JavaScript basics beforehand. 
+
+I also enjoyed learning more about the different types of backlog -- product vs sprint -- as I'd been exposed to them in the workplace before but was not familiar with what specifically they meant.
+ 
+## What was helpful?
+
+Solving some of the easier katas quickly gave me the boost I needed. 
+ 
+## What hindered your progress?
+
+Some of the katas have multiple methods to solve, where one method relies on complex concepts, and the other method relies on simpler things like for loops. At this point it can be hard to determine whether we should be using certain concepts that we find in the MDN documentation or whether it's best to leave them alone for now. One example is the reduce function.
+
+## How did you overcome challenges?
+
+Trying multiple strategies, and stepping back to make sure my pseudocode was well thought out. 
+
+</details>
